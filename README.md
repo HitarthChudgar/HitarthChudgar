@@ -18,12 +18,13 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?HitarthChudgar=AVS1508&show_icons=true)](https://github.com/HitarthChudgar)
+<img alt="Hitarth's github stats" src="https://github-readme-stats.vercel.app/api?username=HitarthChudgar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://hitarthchudgar.design/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hitarth-chudgar-269aa0170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hey@hitarthchudgar.design"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://https://hitarthchudgar.design/"><img alt="Website" src="https://img.shields.io/badge/Website-www.hitarthchudgar.design-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/hitarth-chudgar-269aa0170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hitarth-chudgar-269aa0170-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:hey@hitarthchudgar.design"><img alt="Email" src="https://img.shields.io/badge/Email-hey@hitarthchudgar.design-blue?style=flat-square&logo=gmail"></a>
 </p>
