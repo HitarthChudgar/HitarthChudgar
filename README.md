@@ -25,6 +25,6 @@
 
 <p align="center">
 <a href="https://https://hitarthchudgar.design/"><img alt="Website" src="https://img.shields.io/badge/Website-www.hitarthchudgar.design-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hitarth-chudgar-269aa0170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hitarth-chudgar-269aa0170-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hitarth-chudgar-269aa0170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hey@hitarthchudgar.design"><img alt="Email" src="https://img.shields.io/badge/Email-hey@hitarthchudgar.design-blue?style=flat-square&logo=gmail"></a>
 </p>
