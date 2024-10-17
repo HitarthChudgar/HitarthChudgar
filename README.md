@@ -1,30 +1,24 @@
-<h2> Hey there! I'm Hitarth.</h2>
+# hi, i'm hitarth👋
 
-<h3> 💻 About Me </h3>
+a design engineer passionate about building efficient, scalable, and user-centered experiences. my work focuses on blending design and development, specializing in react, design systems, proofs of concept (pocs), and motion design. 
 
-- 🤔 &nbsp; UX Designer with experience in Front-End Development
-- 🎓 &nbsp; Studying Computer Science @ Ryerson University, Toronto
-- 💼 &nbsp; Currently a Design and Web Intern @ Obesity Canada
-- 🌱 &nbsp; Learning more about Front-End Development tools and languages
-- ✍️ &nbsp; Working on creating UX Design Case Studies and other fun design projects
+## what i do
 
-<h3>🛠 Tech Stack</h3>
+- **react development:** building dynamic and reusable components with react to create seamless user experiences.
+- **design systems:** creating and maintaining scalable, consistent, and efficient design systems that empower teams and improve productivity.
+- **motion design:** bringing life to interfaces with animations that enhance user interactions and create fluid, engaging experiences.
+- **pocs:** rapidly developing proof of concept projects to validate ideas, experiment with new technologies, and find the best solutions to complex problems.
 
-- 💻 &nbsp; Python | Java | C/C++
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Git | Markdown 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign | inVision | After Effects | Figma | Framer
+## my tools
 
-<br/>
+- react
+- javascript (es6+)
+- html & css
+- tailwind css
+- figma & framer motion
+- token studio
 
-<img alt="Hitarth's github stats" src="https://github-readme-stats.vercel.app/api?username=HitarthChudgar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+## let's connect
 
+i love collaborating with other engineers, designers, and creators. feel free to reach out to me at **[chudgarhitarth@gmail.com](mailto:chudgarhitarth@gmail.com)** if you want to chat or work together!
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://hitarthchudgar.design/"><img alt="Website" src="https://img.shields.io/badge/Website-www.hitarthchudgar.design-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hitarth-chudgar-269aa0170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hitarth%20Chudgar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hey@hitarthchudgar.design"><img alt="Email" src="https://img.shields.io/badge/Email-hey@hitarthchudgar.design-blue?style=flat-square&logo=gmail"></a>
-</p>
